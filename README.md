@@ -33,4 +33,4 @@ The model is evaluated using healthcare-grade metrics:
 - **Data Privacy**: Ensure patient data is handled according to HIPAA/GDPR if extending this project.
 
 ---
-*Built by [Your Name]*
+*Built by Shourya Pratap*
