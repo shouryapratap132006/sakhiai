@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "OncoPredict - Breast Cancer Risk Analysis",
+    title: "Sakhi AI - Breast Cancer Risk Analysis",
     description: "AI-powered breast cancer risk prediction system.",
 };
 
